@@ -3,14 +3,9 @@
 An interactive and cross-platform personal resume/portfolio application built with Flutter. This project serves as a digital showcase of my skills, experience, and projects.
 
 ## 📸 Screenshot
-
-*(A screenshot of the application will be added here soon.)*
-
-<!-- 
 <p align="center">
   <img src="assets/images/screenshot.png" width="300">
-</p> 
--->
+</p>
 
 ## ✨ Features
 
