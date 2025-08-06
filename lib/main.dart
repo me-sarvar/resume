@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:lottie/lottie.dart';
 
 void main() {
   runApp(const MainApp());
@@ -13,12 +14,7 @@ class MainApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         body: Center(
-          child: Column(
-            children: [
-              Text('Hello World!', style: TextStyle(fontFamily: 'JetBrains Mono'),),
-              Image.asset('assets/images/photo.jpeg', width: 200,)
-            ],
-          ),
+          child: Lottie.asset('assets/lottie/animation.json'),
         ),
       ),
     );
